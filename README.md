@@ -1,5 +1,5 @@
-- 👋 Holaa, soy saammii, soy alumno de DAM-1 y también soy productor musical.
-- 🌱 Estoy aprendiendo Java, Python, HTML y JavaScript.
+- 👋 Holaa, soy Samuel Izquierdo Olmo. Actualmente estoy estudiando DAM 2 y también soy productor musical.
+- 🌱 Java, Python, HTML, SQL, MongoDB.
 
 <!---
 Saammiii/Saammiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
